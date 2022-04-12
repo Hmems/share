@@ -33,5 +33,5 @@ for i, code in enumerate(codeList2):
  
 print("거래소 + 코스닥 종목코드 ",len(codeList) + len(codeList2))
 
-
+# 깃수정확인용
 
